@@ -1,0 +1,5 @@
+# https://www.rfc-editor.org/rfc/rfc9116
+Contact: mailto:support@vaelon.ru
+Expires: 2027-10-21T00:00:00.000Z
+Preferred-Languages: ru, en
+Canonical: https://vaelon.ru/.well-known/security.txt
